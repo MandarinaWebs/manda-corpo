@@ -17,5 +17,8 @@
 		<?php include_once('./includes/modulos/footer.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
 		<!-- Joselito estuvo por aqui-->
+		<!-- Joselito estuvo por aqui-->
+		<!-- Joselito estuvo por aqui-->
+		<!-- Joselito estuvo por aqui y es malo-->
 	</body>
 </html>
