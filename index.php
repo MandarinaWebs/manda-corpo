@@ -16,5 +16,6 @@
 		<?php include_once('./includes/modulos/scripts-home.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
 		<!-- El gorras del dani el loco -->
+		<p>Claro Wilson</p>
 	</body>
 </html>
