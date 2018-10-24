@@ -1,0 +1,46 @@
+User-agent:*
+Disallow: /*?
+Disallow: /correo.php
+
+#Paginas a desindexar de Google
+Disallow: /admin/
+Disallow: /images/native/
+Disallow: /includes/
+Disallow: /elements.html
+Disallow: /generic.html
+Disallow: /index-original.html
+Disallow: /noticias.html
+Disallow: /quienes-somos.html
+Disallow: /contacto.html
+
+User-agent: BadBot 
+Disallow: /
+
+User-agent: msnbot 
+Disallow: /
+
+User-agent: arachnophilia 
+Disallow: /
+
+User-agent: Microsoft.URL.Control 
+Disallow: /
+
+User-agent: webcopy 
+Disallow: /
+
+User-agent: NinjaBot
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+Sitemap: /sitemap.xml

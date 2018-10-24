@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- creado por mandarinawebs.com -->
+
+
+<url>
+  <loc>https://cursos.mandarinawebs.com/</loc>
+  <lastmod>2018-09-07T15:03:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/formacion/curso-posicionamiento-sem-en-valencia</loc>
+  <lastmod>2018-09-07T09:35:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/formacion/curso-posicionamiento-seo-en-valencia</loc>
+  <lastmod>2018-09-07T09:35:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/formacion/curso-prestashop-en-valencia</loc>
+  <lastmod>2018-09-07T09:35:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/formacion/curso-redes-sociales-en-valencia</loc>
+  <lastmod>2018-09-07T09:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/formacion/curso-seo-sociales-en-valencia</loc>
+  <lastmod>2018-09-07T09:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/proximas-fechas.html</loc>
+  <lastmod>2018-09-07T09:40:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cursos.mandarinawebs.com/contacto.html</loc>
+  <lastmod>2018-09-07T09:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+<loc>https://cursos.mandarinawebs.com/quienes-somos.html</loc>
+<lastmod>2018-09-07T15:48:13+00:00</lastmod>
+<priority>0.5</priority>
+</url>
+
+
+</urlset>

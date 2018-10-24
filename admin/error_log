@@ -1,0 +1,14 @@
+[04-Jul-2018 08:17:55 UTC] PHP Warning:  include_once(/../includes/pie.php): failed to open stream: No such file or directory in /home2/mandari2/public_html/mandarinawebs.com/admin/cms.php on line 223
+[04-Jul-2018 08:17:55 UTC] PHP Warning:  include_once(): Failed opening '/../includes/pie.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home2/mandari2/public_html/mandarinawebs.com/admin/cms.php on line 223
+[04-Jul-2018 08:26:34 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/mandarinawebs.com/admin/editar.php on line 81
+[04-Jul-2018 08:26:34 UTC] PHP Notice:  Undefined variable: categoria_guardada in /home2/mandari2/public_html/mandarinawebs.com/admin/editar.php on line 280
+[04-Jul-2018 08:26:34 UTC] PHP Notice:  Undefined variable: categoria_guardada in /home2/mandari2/public_html/mandarinawebs.com/admin/editar.php on line 280
+[28-Jul-2018 11:56:15 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/planesvlc.com/admin/add.php on line 62
+[30-Jul-2018 15:45:45 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/planesvlc.com/admin/add.php on line 62
+[30-Jul-2018 15:47:29 UTC] PHP Notice:  Undefined variable: categoria_guardada in /home2/mandari2/public_html/planesvlc.com/admin/editar.php on line 293
+[30-Jul-2018 15:47:29 UTC] PHP Notice:  Undefined variable: categoria_guardada in /home2/mandari2/public_html/planesvlc.com/admin/editar.php on line 293
+[30-Jul-2018 15:47:29 UTC] PHP Notice:  Undefined variable: categoria_guardada in /home2/mandari2/public_html/planesvlc.com/admin/editar.php on line 293
+[05-Sep-2018 15:05:23 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/cursos/admin/add.php on line 62
+[06-Sep-2018 10:33:29 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/cursos/admin/add.php on line 62
+[06-Sep-2018 10:35:52 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/cursos/admin/add.php on line 62
+[06-Sep-2018 11:18:21 UTC] PHP Notice:  Only variables should be passed by reference in /home2/mandari2/public_html/cursos/admin/add.php on line 62
