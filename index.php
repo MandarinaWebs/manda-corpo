@@ -16,10 +16,12 @@
 		<?php include_once('./includes/modulos/scripts-home.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
 		
-		<!-- Misco -->
-		<!-- Misco -->
-		<!-- Misco -->
-		<!-- Misco -->
-		<!-- Misco -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
+		<!-- Misco1 -->
 	</body>
 </html>
