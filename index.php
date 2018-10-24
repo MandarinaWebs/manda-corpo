@@ -15,5 +15,7 @@
 		<?php include_once('./includes/modulos/oferta-index.php'); ?>
 		<?php include_once('./includes/modulos/scripts-home.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
+		<?php include_once('./includes/modulos/footer.php'); ?>
+		<!-- Joselito estuvo por aqui-->
 	</body>
 </html>
