@@ -15,13 +15,7 @@
 		<?php include_once('./includes/modulos/oferta-index.php'); ?>
 		<?php include_once('./includes/modulos/scripts-home.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
+		<!-- El gorras del dani -->
 		
-		<!-- Misco1 -->
-		<!-- Misco1 -->
-		<!-- Misco1 -->
-		<!-- Misco1 -->
-		<!-- Misco1 -->
-		<!-- Misco1 -->
-		<!-- Misco1 -->
 	</body>
 </html>
