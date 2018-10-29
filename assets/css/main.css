@@ -5990,7 +5990,6 @@ input, select, textarea {
 }
 
 
-
 @media screen and (max-width: 900px) {
 .contenidoArticulo{
 	max-width: 800px;
@@ -6011,3 +6010,123 @@ input, select, textarea {
 	}
 }
 
+/*Estilos Filtro*/
+
+.section .top-side {
+  text-align: center;
+}
+.categoriaMenu {
+	font-size: 10px;
+}
+.section .top-side .title {
+  font-weight: 500;
+  font-size: 15px;
+  display: inline-block;
+}
+.section .top-side .title:after {
+  content: "";
+  display: block;
+  width: 50%;
+  border-bottom: 1px solid #494949;
+  margin: 8px auto;
+}
+.section .top-side h2 {
+  font-weight: 700;
+}
+.section.portfolio .filters {
+  text-align: right;
+  margin-top: 50px;
+}
+.section.portfolio .filters ul {
+  padding: 0;
+}
+
+.block ul li{
+	font-size: 20px;
+	display: inline-block;
+	list-style: none;
+	padding: 20px 30px;
+	cursor: pointer;
+	position: relative;
+}
+.lista ul li{
+	font-size: 15px;
+	list-style: none;
+	padding: 15px 30px;
+	cursor: pointer;
+	position: relative;
+}
+
+.section.portfolio .filters ul li:after {
+  content: "";
+  display: block;
+  width: calc(0% - 60px);
+  position: absolute;
+  height: 2px;
+  background: #333;
+  transition: width 350ms ease-out;
+}
+.section.portfolio .filters ul li:hover:after {
+  width: calc(100% - 60px);
+  transition: width 350ms ease-out;
+}
+.section.portfolio .filters ul li.active:after {
+  width: calc(100% - 60px);
+}
+.section.portfolio .filters-content {
+  margin-top: 50px;
+}
+.section.portfolio .filters-content .show {
+  opacity: 1;
+  visibility: visible;
+  transition: all 350ms;
+}
+.section.portfolio .filters-content .hide {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 350ms;
+}
+.section.portfolio .filters-content .item {
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 30px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+.section.portfolio .filters-content .item .p-inner {
+	position: relative;
+	margin-top: -8em;
+  padding: 20px 30px;
+  border-radius: 10px;
+  z-index: 2;
+  background: #ffffffbf;
+}
+.section.portfolio .filters-content .item .p-inner h5 {
+  font-size: 18px;
+  text-align: left;
+}
+.section.portfolio .filters-content .item .p-inner .cat {
+  font-size: 13px;
+  text-align: right;
+}
+.section.portfolio .filters-content .item img {
+	position: relative;
+  width: 100%;
+border-radius: 10px;
+  z-index: 1;
+ -webkit-transition:all 0.2s ease; /* Safari y Chrome */
+-moz-transition:all .9s ease; /* Firefox */
+-o-transition:all .9s ease; /* IE 9 */
+-ms-transition:all .9s ease; /* Opera */
+
+}
+
+.section.portfolio .filters-content .item:hover img {
+-webkit-transform:scale(1.10);
+-moz-transform:scale(1.10);
+-ms-transform:scale(1.10);
+-o-transform:scale(1.10);
+transform:scale(1.10);
+}
+
+/*Fin estilos Filtro*/

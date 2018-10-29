@@ -3,7 +3,7 @@
 					<span class="image">
 						<img src="images/pic03.jpg" alt="" />
 					</span>
-					<a href="./formacion/curso-wordpress-en-valencia.html">
+					<a href="./i+d+marketing.php">
 						<h2>I+D Marketing</h2>
 						<div class="content">
 							<p>Todo lo necesario para tu empresa</p><br />
