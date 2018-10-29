@@ -15,13 +15,5 @@
 		<?php include_once('./includes/modulos/oferta-index.php'); ?>
 		<?php include_once('./includes/modulos/scripts-home.php'); ?>
 		<?php include_once('./includes/modulos/footer.php'); ?>
-		<?php include_once('./includes/modulos/footer.php'); ?>
-		<!-- Joselito estuvo por aqui-->
-		<!-- Joselito estuvo por aqui-->
-		<!-- Joselito estuvo por aqui-->
-		<!-- Joselito estuvo por aqui y es malo-->
-		<!-- Joselito estuvo por aqui y es malo por la tarde-->
-		<p>HAciendo parrafos como el Dani</p>
-
 	</body>
 </html>

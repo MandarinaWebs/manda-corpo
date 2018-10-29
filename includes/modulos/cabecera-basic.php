@@ -1,5 +1,5 @@
 ﻿<!-- Header -->
-<header id="header" class="alt">
+<header id="header">
 
 	<!-- Logo -->
 		<div class="logo">

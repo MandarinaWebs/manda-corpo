@@ -1,4 +1,4 @@
-﻿<section id="two" class="wrapper" style="padding-bottom: 10px;">
+﻿<section id="intro" class="wrapper" style="padding-bottom: 10px;">
 	<div class="inner">
 		<div class="split style1 centered reversed">
 
