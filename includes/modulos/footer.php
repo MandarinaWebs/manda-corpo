@@ -1,5 +1,10 @@
 ﻿<!-- Footer -->
-<footer id="footer">
+<?php if ($_SESSION['pagina'] == "i+d+marketing") { ?>
+	<footer id="footer" style="background-color: #4c3459">
+	<?php } else{ ?>
+		<footer id="footer">
+		<?php } ?>
+
 	<div class="inner">
 		<div class="split style1">
 			<div class="contact">

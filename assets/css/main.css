@@ -4901,7 +4901,6 @@ input, select, textarea {
 		background-color: #0F1E32;
 		color: rgba(255, 255, 255, 0.75);
 		padding: 7.5em 0 5.5em 0 ;
-		background-color: #0F1E32;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -6133,6 +6132,15 @@ border-radius: 10px;
 -o-transform:scale(1.10);
 transform:scale(1.10);
 }
+<<<<<<< HEAD
 
 /*Fin estilos Filtro*/
+.categoria-text {
+	font-weight: bold;	
+	background:#f5d3a0;
+	text-transform: uppercase;
+}
 
+/*Fin estilos Filtro*/
+/*Fin estilos Filtro*/
+/*Morado #815497 */

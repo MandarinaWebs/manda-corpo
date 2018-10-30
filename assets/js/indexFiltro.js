@@ -19,14 +19,14 @@ var $grid = $(".grid").isotope({
 });
 
 $(document).ready(function(){
-		$grid.isotope({
-			filter: ".todos"
-		});
-		
-        $("#myInput").on("keyup", function() {
-          var value = $(this).val().toLowerCase();
-          $(".dropdown-menu li").filter(function() {
-            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-          });
-        });
+	$grid.isotope({
+		filter: ".todos"
+	});
+
+    $("#myInput").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $(".dropdown-menu li").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
       });
+    });
+  });
