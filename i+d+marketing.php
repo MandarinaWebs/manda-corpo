@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 
-<?php include_once('./includes/modulos/firma.php'); ?>
+<?php include_once('./includes/modulos/firma.php'); 
+	$_SESSION['pagina'] = "i+d+marketing";
+	?>
 <html lang="es">
 	<head>
 		<?php include_once('./includes/modulos/head-home.php'); ?>
@@ -15,12 +17,11 @@
 		<section class="wrapper portfolio section" style="padding-bottom:0px;">
 			<div class="inner">
 			    <div class="top-side">
-			      <h4 class="title">MY WORKS</h4>
-			      <h2>PORTFOLIO</h2>
+			      <h2>I+D+MARKETING</h2>
 			    </div>
 			    
 			    <div class="row gtr-uniform">
-			    	<div class="col-3 col-12-small">
+			    	<div class="col-12 col-12-small">
 						 <div class="dropdown filters lista">
 							<button class="button" type="button" data-toggle="dropdown"><font size="5">Todos los productos</font>
 							<span class="caret"></span></button>
@@ -33,14 +34,16 @@
 							</ul>
 						  </div>
 					  </div>
-					<div class="col-9 col-12-small">
+					<div class="col-12 col-12-small">
 					    <div class="filters block">
 					      <ul>
 					        <li class="active" data-filter="*">All</li>
-					        <li data-filter=".corporate">Corporate</li>
-					        <li data-filter=".personal">Personal</li>
-					        <li data-filter=".agency">Agency</li>
-					        <li data-filter=".portal">Portal</li>
+					        <li data-filter=".agenciaPublicidad">Agencia Publicidad</li>
+					        <li data-filter=".fotografia">Fotografía</li>
+					        <li data-filter=".imagen">Imagen Corporativa</li>
+					        <li data-filter=".web">Web</li>
+					        <li data-filter=".eventos">Eventos</li>
+					        <li data-filter=".publicidad">Publicidad</li>
 					      </ul>
 					    </div>
 					</div>
@@ -49,79 +52,238 @@
 
 			    <div class="filters-content">
 			      <div class="row grid gtr-uniform">
-			        <div class="col-4 col-12-small all corporate">
+			        <div class="col-4 col-12-small all agenciaPublicidad">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/imagen.jpg">
 			            <div class="p-inner">
-			              <h5>WORK 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>CAMPAÑA PUBLICITARIA</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor.</div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all personal">
+
+			        <div class="col-4 col-12-small all agenciaPublicidad">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/imagen.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Marketing Online</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor.</div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all agency">
+
+			        <div class="col-4 col-12-small all agenciaPublicidad">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/imagen.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Publicidad Gráfica</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all portal">
+
+			        <div class="col-4 col-12-small all agenciaPublicidad">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/imagen.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Marketing Directo</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor.</div>
 			            </div>
 			          </div>
 			        </div>
-			         <div class="col-4 col-12-small all corporate">
+
+			         <div class="col-4 col-12-small all fotografia">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/fotografia.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Book fotográfico</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all personal corporate">
+
+			        <div class="col-4 col-12-small all fotografia">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/fotografia.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 3</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Fotografía publicitaria</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all agency">
+
+			        <div class="col-4 col-12-small all fotografia">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/fotografia.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Soluciones Edición</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
 			            </div>
 			          </div>
 			        </div>
-			        <div class="col-4 col-12-small all portal">
+
+			        <div class="col-4 col-12-small all imagen">
 			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
+			            <img src="./images/i+d+marketing/imagen-1.jpg" alt="">
 			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
+			              <h5>Diseño Corporativo</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all imagen">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/imagen-1.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Diseño folletos</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all imagen">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/imagen-1.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Diseño logotipos</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all imagen">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/imagen-1.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Diseño Tarjetas</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all web">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/web.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Web corporativa</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all web">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/web.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Tienda Virtual</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all web">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/web.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Web Institucionales</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all web">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/web.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Catálogo virtual</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			        <div class="col-4 col-12-small all eventos">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/eventos.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Equipos audiovisuales</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			        <div class="col-4 col-12-small all eventos">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/eventos.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Montaje de Escenarios</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			        <div class="col-4 col-12-small all eventos">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/eventos.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Asesoramiento técnico</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			        <div class="col-4 col-12-small all eventos">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/eventos-1.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Eventos</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
 			            </div>
 			          </div>
 			        </div>
 			        
+			        <div class="col-4 col-12-small all publicidad">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/publicidad.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Articulos Oficina Personalizados</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all publicidad">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/publicidad.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Artículos Automovil</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all publicidad">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/publicidad.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Abanicos personalizados</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+			         <div class="col-4 col-12-small all publicidad">
+			          <div class="item">
+			            <img src="./images/i+d+marketing/publicidad.jpg" alt="">
+			            <div class="p-inner">
+			              <h5>Gorras personalizables</h5>
+			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
+			            </div>
+			          </div>
+			        </div>
+
+
+
 			      </div>
 			    </div>
 			</div>

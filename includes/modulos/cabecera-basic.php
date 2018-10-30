@@ -1,6 +1,9 @@
 ﻿<!-- Header -->
-<header id="header">
-
+<?php if ($_SESSION['pagina'] = "i+d+marketing") { ?>
+	<header id="header" style="background: #633e76;">
+	<?php } else{ ?>
+		<header id="header">
+		<?php } ?>
 	<!-- Logo -->
 		<div class="logo">
 			<a href="index.html">Cursos MandarinaWebs</a>
@@ -10,7 +13,7 @@
 		<nav id="nav">
 			<ul>
 				<li><a href="./">Inicio</a></li>
-				<li><a href="./quienes-somos.html">Quiénes somos</a></li>
+				<li><a href="./quienes-somos.php">Quiénes somos</a></li>
 				<li>
 					<a class="icon fa-angle-down">Categorías</a>
 					<ul>
