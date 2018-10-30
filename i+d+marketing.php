@@ -21,42 +21,15 @@
 		<section class="wrapper portfolio section" style="padding-bottom:0px;">
 			<div class="inner">
 			    <div class="top-side">
-<<<<<<< HEAD
-			      <h4 class="title">MY WORKS</h4>
-			      <h2>PORTFOLIO</h2>
-			    </div>
-			    
-			    <div class="row gtr-uniform">
-			    	<div class="col-3 col-12-small">
-=======
 			      <h2>I+D+MARKETING</h2>
 			    </div>
 			    
 			    <div class="row gtr-uniform">
 			    	<div class="col-12 col-12-small">
->>>>>>> joselito
 						 <div class="dropdown filters lista">
 							<button class="button" type="button" data-toggle="dropdown"><font size="5">Todos los productos</font>
 							<span class="caret"></span></button>
 							<ul class="dropdown-menu">
-<<<<<<< HEAD
-							  <input class="form-control" id="myInput" type="text" placeholder="Search..">
-								<li data-filter=".corporate"><b>Corporate</b> <font class="categoriaMenu">(categoria)</font></li>
-								<li data-filter=".personal">Personal</li>
-								<li data-filter=".agency">Agency</li>
-								<li data-filter=".portal">Portal</li>
-							</ul>
-						  </div>
-					  </div>
-					<div class="col-9 col-12-small">
-					    <div class="filters block">
-					      <ul>
-					        <li class="active" data-filter="*">All</li>
-					        <li data-filter=".corporate">Corporate</li>
-					        <li data-filter=".personal">Personal</li>
-					        <li data-filter=".agency">Agency</li>
-					        <li data-filter=".portal">Portal</li>
-=======
 							  <input class="form-control" id="myInput" type="text" placeholder="¿Qué estás buscando?...">
 								<li class="categoria-text" data-filter=".agenciaPublicidad">AGENCIA PUBLICITARIA</li>
 								<li data-filter=".campañaPublicitaria">Campaña publicitaria</li>
@@ -101,7 +74,6 @@
 					        <li data-filter=".web">Web</li>
 					        <li data-filter=".eventos">Eventos</li>
 					        <li data-filter=".publicidad">Publicidad</li>
->>>>>>> joselito
 					      </ul>
 					    </div>
 					</div>
@@ -110,77 +82,6 @@
 
 			    <div class="filters-content">
 			      <div class="row grid gtr-uniform">
-<<<<<<< HEAD
-			        <div class="col-4 col-12-small all corporate">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>WORK 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all personal">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all agency">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all portal">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			         <div class="col-4 col-12-small all corporate">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all personal corporate">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 3</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all agency">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col-4 col-12-small all portal">
-			          <div class="item">
-			            <img src="http://themes.muffingroup.com/betheme/documentation/doc-images/muffin-options/custom-js.png" alt="Work 1">
-			            <div class="p-inner">
-			              <h5>Work 1</h5>
-			              <div class="cat">Hola mi cara mi cara mi cara mi cara mi cara mi cara mi cara mi cara </div>
-=======
 			        <div class="col-4 col-12-small all todos agenciaPublicidad campañaPublicitaria">
 			          <div class="item">
 			            <img src="./images/i+d+marketing/campana-publicitaria.jpg">
@@ -367,13 +268,9 @@
 			            <div class="p-inner">
 			              <h5>Organización de eventos</h5>
 			              <div class="cat">Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor. </div>
->>>>>>> joselito
 			            </div>
 			          </div>
 			        </div>
-			        
-<<<<<<< HEAD
-=======
 			        <div class="col-4 col-12-small all todos publicidad articulosOficina">
 			          <div class="item">
 			            <img src="./images/i+d+marketing/articulos-oficina-personalizados.jpg" alt="">
@@ -403,10 +300,6 @@
 			            </div>
 			          </div>
 			        </div>
-
-
-
->>>>>>> joselito
 			      </div>
 			    </div>
 			</div>
