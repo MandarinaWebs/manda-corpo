@@ -17,17 +17,7 @@
 			    <h2>DEPORTE, SALUD Y BIENESTAR</h2>
 				<div class="row gtr-uniform">
 					<div class="col-12 col-12-small">
-						<div class="filters block">
-							  <ul>
-								<li data-filter=".all"><a class="bttn">Todos</a></li>
-								<li data-filter=".educacion"><a class="bttn">Recomendados</a></li>
-								<li data-filter=".educacion"><a class="bttn">Centros Educativos</a></li>
-								<li data-filter=".aguas"><a class="bttn">Aguas</a></li>
-								<li data-filter=".bebidas"><a class="bttn">Bebidas energéticas</a></li>
-								<li data-filter=".medicina"><a class="bttn">Medicina Natural</a></li>
-							  </ul>
-						  </div>
-						 <div class="dropdown filters lista" style="text-align: left;">
+						 <div class="dropdown filters lista">
 							<button class="button" type="button" data-toggle="dropdown"><font size="5">Todos los productos</font>
 							<span class="caret"></span></button>
 							<ul class="dropdown-menu">
@@ -57,10 +47,18 @@
 								<li data-filter=".vitMin">Vitaminas y Minerales</li>
 							</ul>
 						  </div>
-						  
 					  </div>
-					<div class="col-9 col-12-small">
-						
+					<div class="col-12 col-12-small">
+						<div class="filters block" style="margin-top:0px">
+						  <ul>
+							<li class="active" data-filter=".todos">Destacados</li>
+							<li data-filter="*">Todos</li>
+							<li data-filter=".educacion">Centros Educativos</li>
+							<li data-filter=".aguas">Aguas</li>
+							<li data-filter=".bebidas">Bebidas energéticas</li>
+							<li data-filter=".medicina">Medicina Natural</li>
+						  </ul>
+						</div>
 					</div>
 				</div>
 				<div class="filters-content">
@@ -83,7 +81,7 @@
 						</div>
 					  </div>
 					</div>
-					<div class="col-4 col-12-small all todos materialDeportivo educacion">
+					<div class="col-4 col-12-small all materialDeportivo educacion">
 					  <div class="item">
 						<img src="./images/sectores/salud-bienestar/material-deportivo.jpg" alt="">
 						<div class="p-inner">
@@ -92,7 +90,7 @@
 						</div>
 					  </div>
 					</div>
-					<div class="col-4 col-12-small all todos obraCivil educacion">
+					<div class="col-4 col-12-small all obraCivil educacion">
 					  <div class="item">
 						<img src="./images/sectores/salud-bienestar/intalaciones.jpg" alt="">
 						<div class="p-inner">

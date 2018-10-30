@@ -44,7 +44,7 @@
 					<!-- <li><a href="./proximas-fechas.html">Proximas fechas</a></li>-->
 				<li><a href="./noticias.php">Noticias</a></li>
 				<li><a href="https://desarrollo.mandarinaservices.com">Shop</a></li>
-				<li><a href="./contacto.html">Contacto</a>
+				<li><a href="./contacto.php">Contacto</a>
 					<ul>
 						<li><a href="./faq.php">¿Tienes una pregunta?</a></li>
 						<li><a href="./">Contacto</a></li>
