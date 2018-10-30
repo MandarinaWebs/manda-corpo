@@ -17,6 +17,13 @@ var $grid = $(".grid").isotope({
 });
 
 $(document).ready(function(){
+<<<<<<< HEAD
+=======
+  $grid.isotope({
+      filter: ".todos"
+    });
+  
+>>>>>>> joselito
         $("#myInput").on("keyup", function() {
           var value = $(this).val().toLowerCase();
           $(".dropdown-menu li").filter(function() {
