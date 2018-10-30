@@ -14,7 +14,7 @@
 					<span class="image">
 						<img src="images/pic03.jpg" alt="" />
 					</span>
-					<a href="./formacion/curso-posicionamiento-seo-en-valencia.html">
+					<a href="./salud+bienestar.php">
 						<h2>Salud y Bienestar</h2>
 						<div class="content">
 							<p>¿Hay algo más importante que nuestra salud?</p><br />
