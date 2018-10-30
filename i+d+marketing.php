@@ -3,7 +3,6 @@
 <?php include_once('./includes/modulos/firma.php'); 
 	$_SESSION['pagina'] = "i+d+marketing";
 	?>
-HOLA1
 <html lang="es">
 	<head>
 		<?php include_once('./includes/modulos/head-home.php'); ?>
