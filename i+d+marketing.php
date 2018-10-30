@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+Adios joder
 <?php include_once('./includes/modulos/firma.php'); 
 	$_SESSION['pagina'] = "i+d+marketing";
 	?>
