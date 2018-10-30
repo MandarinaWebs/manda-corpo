@@ -10,7 +10,7 @@
 		<nav id="nav">
 			<ul>
 				<li><a href="./">Inicio</a></li>
-				<li><a href="./quienes-somos.html">Quiénes somos</a></li>
+				<li><a href="./quienes-somos.php">Quiénes somos</a></li>
 				<li>
 					<a class="icon fa-angle-down">Categorías</a>
 					<ul>

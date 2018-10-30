@@ -1,9 +1,9 @@
 ﻿<!-- Header -->
-<?php if ($_SESSION['pagina'] = "i+d+marketing") { ?>
+<?php if ($_SESSION['pagina'] == "i+d+marketing") { ?>
 	<header id="header" style="background: #633e76;">
-	<?php } else{ ?>
+	 <?php } else{ ?>
 		<header id="header">
-		<?php } ?>
+		 <?php } ?>
 	<!-- Logo -->
 		<div class="logo">
 			<a href="index.html">Cursos MandarinaWebs</a>
