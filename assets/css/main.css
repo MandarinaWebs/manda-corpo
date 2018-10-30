@@ -6127,6 +6127,11 @@ border-radius: 10px;
 -o-transform:scale(1.10);
 transform:scale(1.10);
 }
+.categoria-text {
+	font-weight: bold;	
+	background:#f5d3a0;
+	text-transform: uppercase;
+}
 
 /*Fin estilos Filtro*/
 

@@ -17,6 +17,10 @@ var $grid = $(".grid").isotope({
 });
 
 $(document).ready(function(){
+  $grid.isotope({
+      filter: ".todos"
+    });
+  
         $("#myInput").on("keyup", function() {
           var value = $(this).val().toLowerCase();
           $(".dropdown-menu li").filter(function() {
