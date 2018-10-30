@@ -3,7 +3,7 @@
 
 	<!-- Logo -->
 		<div class="logo">
-			<a href="index.html">Cursos MandarinaWebs</a>
+			<a href="index.html">Corporeco</a>
 		</div>
 
 	<!-- Nav -->
