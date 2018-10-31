@@ -3,7 +3,7 @@
 
 	<!-- Logo -->
 		<div class="logo">
-			<a href="index.html">Corporeco</a>
+			<a href="index.php">Corporeco</a>
 		</div>
 
 	<!-- Nav -->
@@ -14,7 +14,7 @@
 				<li>
 					<a class="icon fa-angle-down">Categorías</a>
 					<ul>
-						<li><a href="">I+D y Marketing</a>
+						<li><a href="./i+d+marketing.php">I+D y Marketing</a>
 							<ul>
 								<li><a href="./">Subcategoría</a></li>
 								<li><a href="./">Otra Subcategoría por aquí</a></li>
@@ -26,7 +26,7 @@
 								<li><a href="./">Esta es otra</a></li>
 							</ul>
 						</li>
-						<li><a href="./">Salud y Bienestar</a>
+						<li><a href="./salud+bienestar.php">Salud y Bienestar</a>
 							<ul>
 								<li><a href="./">Una más</a></li>
 								<li><a href="./">Esta es otra</a></li>
@@ -35,9 +35,9 @@
 								<li><a href="./">Esta es otra</a></li>
 							</ul>
 						</li>
-						<li><a href="./">Asesoramientos Globales</a></li>
-						<li><a href="./">Ahorro de Costes</a></li>
-						<li><a href="./">Hostelería</a>
+						<li><a href="./asesoramiento.php">Asesoramientos Globales</a></li>
+						<li><a href="./ahorrocostes.php">Ahorro de Costes</a></li>
+						<li><a href="./hosteleria.php">Hostelería</a>
 						</li>
 					</ul>
 				</li>

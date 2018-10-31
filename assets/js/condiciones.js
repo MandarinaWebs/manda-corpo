@@ -1,0 +1,1 @@
+function acepta(){document.getElementById("aceptacondicion").checked?document.getElementById("enviar").disabled=!1:document.getElementById("enviar").disabled=!0};

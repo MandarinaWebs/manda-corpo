@@ -25,7 +25,7 @@
 					<span class="image">
 						<img src="images/pic03.jpg" alt="" />
 					</span>
-					<a href="./formacion/curso-prestashop-en-valencia.html">
+					<a href="./asesoramiento.php">
 						<h3>Asesoramientos Globales a Empresas</h3>
 						<div class="content">
 							<p>El mejor asesoramiento al alcance de todos</p><br />
@@ -36,7 +36,7 @@
 					<span class="image">
 						<img src="images/pic03.jpg" alt="" />
 					</span>
-					<a href="./formacion/curso-prestashop-en-valencia.html">
+					<a href="./ahorrocostes.php">
 						<h2>Ahorro Costes</h2>
 						<div class="content">
 							<p>Ahorra costes innecesarios para invertir en el futuro</p><br />
@@ -47,7 +47,7 @@
 					<span class="image">
 						<img src="images/pic03.jpg" alt="" />
 					</span>
-					<a href="./formacion/curso-prestashop-en-valencia.html">
+					<a href="./hosteleria.php">
 						<h2>Hosterlería</h2>
 						<div class="content">
 							<p>Servicios de hostelería de alta gama</p><br />

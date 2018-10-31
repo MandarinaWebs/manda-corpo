@@ -17,7 +17,52 @@
 						<p>Conoce un poco más a MandarinaWebs</p>
 					</header>
 					<a href="#" class="image main"><img src="images/quienes-somos.jpg" alt="" /></a>
-					<p>
+					<div class="timeline">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=11;" data-year="2011">
+          <div class="swiper-slide-content"><span class="timeline-year">2011</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=12;" data-year="2012">
+          <div class="swiper-slide-content"><span class="timeline-year">2012</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=13;" data-year="2013">
+          <div class="swiper-slide-content"><span class="timeline-year">2013</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=14;" data-year="2014">
+          <div class="swiper-slide-content"><span class="timeline-year">2014</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=15;" data-year="2015">
+          <div class="swiper-slide-content"><span class="timeline-year">2015</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=16;" data-year="2016">
+          <div class="swiper-slide-content"><span class="timeline-year">2016</span>
+            <h4 class="timeline-title">Our nice super title</h4>
+            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+					<!--<p>
 						GRUPO CORPORECO es la unión de profesionales con una larga experiencia, que
 						aportamos un amplio abanico de soluciones tecnológicas, aplicadas tanto a la
 						implantación y gestión comercial, como al ahorro de coste de sus principales partidas
@@ -56,7 +101,7 @@
 						Nuestra capacidad de integración de todos ellos en packs personalizados permite la
 						venta cruzada. Los packs abarcan las áreas de hostelería, salud y bienestar, I+D
 						Marketing, Ahorro Coste y Asesoramiento Globales Empresas.
-					</p>
+					</p>-->
 			
 			</div>
 		</section>

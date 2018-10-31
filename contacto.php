@@ -43,11 +43,17 @@
 								Para cumplir con la nueva Ley de Protección de Datos y que tus datos estén a salvo, debes leer y aceptar nuestra política de privacidad:
 								Responsable: Diego Montagud Rodríguez a nombre de Cursos de Mandarina Webs | Finalidad: La finalidad de la recogida y tratamiento de los datos personales se debe a gestionar el alta en la suscripción ya indicada | Legitimación: Al marcar la casilla de aceptación, estás dando tu legítimo consentimiento para que tus datos sean tratados conforme a las finalidades de este formulario y por las personas y/o proveedores que se indican a continuación | Destinatarios: Debido al uso de servicios de terceros, tus datos serán guardados en los servidores de Google (Google, Inc), Webempresa (Webempresa S.L) | Derechos: Tienes derecho a acceder, rectificar, limitar y suprimir tus datos. Para ello contacta con info@mandarinawebs.com</br>
 							</p>
-							<ul class="actions">
-								<li><input value="Enviar" class="button" type="submit" /></li>
-							</ul>
-						</form>
-					</div>
+								<div>
+									</br>
+									<input type="checkbox" id="aceptacondicion" name="aceptacondicion" onclick="acepta()">
+									<label for="aceptacondicion">Acepta las condiciones de uso</label>
+								</div>
+								<ul class="actions">
+									<li></br><input id="enviar" name="enviar" type="submit" value="Enviar" disabled/></li>
+								</ul>
+								<h4>Las secciones marcadas con "*" son obligatorias</h4>
+							</form>
+						</div>
 				</div>
 			</div>
 		</section>
